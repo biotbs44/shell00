@@ -1,3 +1,2 @@
 #!/bin/bash
-
-git log --pretty=oneline -5 | cut -f 1 -d ' '
+git log -5 --pretty=%H
