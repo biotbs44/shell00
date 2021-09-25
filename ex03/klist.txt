@@ -1,1 +1,5 @@
-   Name     Cache name     Expires
+Credentials cache: API:5017E964-E8B3-4A56-862C-EBCC9A1CCC9C
+        Principal: jungyang@42SEOUL.KR
+
+  Issued                Expires               Principal
+Sep 25 21:15:27 2021  Sep 26 07:15:22 2021  krbtgt/42SEOUL.KR@42SEOUL.KR
